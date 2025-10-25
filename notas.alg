@@ -16,11 +16,12 @@ Inicio
    
    escreval("NOTA FINAL= ", notaFinal:5:1)
    
-   se notaFinal < 60.00 entao
+   se notaFinal < 70.00 entao
       escreval("REPROVADO")
    senao
       escreval("APROVADO")
    fimse
+
 
 
 Fimalgoritmo
